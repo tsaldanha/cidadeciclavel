@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#header { 
+    color: #fff;
+    background: blue;
+}
+
+#header #logo{
+    display: inline-block;
+}
+
+#header #menu{
+    display: inline-block;
+}
+#header #menu-list{
+    list-style: none;
+}
+#header #menu-list-item{
+    display: inline-block;
+}
+#header #menu-list-item .menu-list-link{
+    color: #fff;
+}
